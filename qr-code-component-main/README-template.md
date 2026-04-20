@@ -57,4 +57,4 @@ I used Claude AI when working on this project. Instead of just asking it to give
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Raley17)
+- Frontend Mentor - [@Raley17](https://www.frontendmentor.io/profile/Raley17)
